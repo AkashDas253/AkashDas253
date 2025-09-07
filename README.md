@@ -3,7 +3,7 @@
 🌱 I’m currently learning Web Development and Machine Learning  
 💞️ I’m looking to collaborate on Web Development and Machine Learning projects  
 <!--[comment]: # (⚡ Fun fact: I enjoy solving complex puzzles and challenges in my free time!)--->
-
+ 
 ## Core Skills
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge&logo=network&logoColor=white) ![Relational Databases](https://img.shields.io/badge/Relational%20Databases-003366?style=for-the-badge&logo=database&logoColor=white) ![Operating System](https://img.shields.io/badge/Operating%20System-4CAF50?style=for-the-badge&logo=linux&logoColor=white) ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-FF6F00?style=for-the-badge&logo=security&logoColor=white) ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-00ADEF?style=for-the-badge&logo=cloud&logoColor=white)  
 
